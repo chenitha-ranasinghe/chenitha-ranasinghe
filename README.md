@@ -2,7 +2,7 @@
 
 ### AI & IoT Engineer · Computer Science Undergraduate · Sri Lanka 🇱🇰
 
-I'm a first-year Computer Science student at the **Informatics Institute of Technology (IIT), Sri Lanka**, passionate about building real-world systems at the intersection of **Artificial Intelligence, IoT, and Web3**. I don't just study concepts — I ship projects.
+I'm a second-year Computer Science student at the **Informatics Institute of Technology (IIT), Sri Lanka**, passionate about building real-world systems at the intersection of **Artificial Intelligence, IoT, and Web3**. I don't just study concepts — I ship projects.
 
 ---
 
