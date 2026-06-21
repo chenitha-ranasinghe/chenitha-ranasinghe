@@ -1,4 +1,4 @@
-# Hi, I'm Chenitha Ranasinghe 👋
+# Hi, I'm Chenitha Ranasinghe 
 
 ### AI & IoT Engineer · Computer Science Undergraduate · Sri Lanka 🇱🇰
 
@@ -6,53 +6,53 @@ I'm a second-year Computer Science student at the **Informatics Institute of Tec
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
-### 🔗 Tokenly Protocol — AI-Powered Web3 Asset Trading Platform
+### Tokenly Protocol — AI-Powered Web3 Asset Trading Platform
 > *Next.js · TypeScript · Groq API · Three.js · SHA-256*
 
 A full-stack Web3 platform with an AI-powered portfolio risk engine. Built an algorithmic price discovery system (Wisdom Engine), a staked authenticator network for luxury goods verification, and SHA-256 audit logging with wash-trading prevention middleware.
 
 ---
 
-### 🤖 IoT & ML-Based Elder Care Robotics System
+### IoT & ML-Based Elder Care Robotics System
 > *Python · Machine Learning · IoT Sensors*
 
 An intelligent robotic system for elderly care, integrating IoT sensors and ML models for real-time health monitoring, fall detection, and automated emergency response.
 
 ---
 
-### 🧠 Wearable Neuro-Wellbeing Monitor (Neuro-Band)
+### Wearable Neuro-Wellbeing Monitor (Neuro-Band)
 > *Biosignal Processing · Sensor Fusion · Python*
 
 A wearable device using sensor fusion and intelligent algorithms to monitor mental states, stress levels, and overall wellness in real time.
 
 ---
 
-### 🪑 Smart Posture Monitoring System (Smart Cushion)
+### Smart Posture Monitoring System (Smart Cushion)
 > *IoT · Pressure Sensors · Real-time Processing*
 
 An IoT-based smart cushion detecting improper sitting patterns to support ergonomic health through real-time pressure monitoring.
 
 ---
 
-### 🧪 IoT-Driven Image & Signal Processing — MATLAB
+### IoT-Driven Image & Signal Processing — MATLAB
 > *MATLAB · Signal Analysis · Feature Extraction*
 
 Advanced image and signal processing pipelines using IoT sensor data, focusing on accurate signal analysis and data-driven system optimisation.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **1st Place** — Codefest Designation 2024 *(SLIIT)*
-- 🏅 **Merit Award** — Aasta Designathon 2025
-- 🤖 **Participant** — Codesprint X 2025 with Smart Elder Care Robot Prototype *(IIT)*
-- 🔝 **Top 10** — SensiQ UI/UX Design for Special Needs Users 2025
+- **1st Place** — Codefest Designation 2024 *(SLIIT)*
+- **Merit Award** — Aasta Designathon 2025
+- **Participant** — Codesprint X 2025 with Smart Elder Care Robot Prototype *(IIT)*
+- **Top 10** — SensiQ UI/UX Design for Special Needs Users 2025
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -79,7 +79,7 @@ Advanced image and signal processing pipelines using IoT sensor data, focusing o
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Chenitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheniya2006&show_icons=true&theme=tokyonight&hide_border=true)
 
